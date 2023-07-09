@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://harshitab07.github.io/portfolio/](https://harshitab07.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://harshitab07.github.io/portfolio/](https://harshitab07.github.io/my-portfolio/)
 
 - 💬 Ask me about **JS, ES6, ReactJS**
 
