@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitab07" alt="harshitab07" /></a> </p>
 
-- 🔭 I’m currently working in **Growpital**
+- 🔭 I’m a **Fullstack Developer**
 
-- 🌱 I’m currently learning **React Native, NodeJS**
+- 🌱 I’m currently learning **MERN, Angular**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Fullstack Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://harshitab07.github.io/portfolio/](https://harshitab07.github.io/my-portfolio/)
 
